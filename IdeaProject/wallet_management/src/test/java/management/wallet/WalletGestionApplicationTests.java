@@ -1,4 +1,4 @@
-package gestion.wallet;
+package management.wallet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
